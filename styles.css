@@ -16,14 +16,19 @@ h3{
 	background: #E9CFCF;
 }
 
+h4{
+	font-family:Roboto;
+}
+
 .body-text{
 	font-size:19px;
 	font-family:Roboto;
+	text-align: left;
 }
 
 .bottomtext p{
 	font-size: 12px;
-	font-family:Futura;
+	font-family:Roboto;
 }
 
 body{
@@ -34,6 +39,8 @@ body{
 	width: 600px;
 	max-width: 100%;
 	height: auto;
+	display: grid;
+	place-items: center;
 }
 
 .apple{
