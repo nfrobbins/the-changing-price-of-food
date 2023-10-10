@@ -1,0 +1,85 @@
+h1{
+	font-size: 60px;
+	color:darkred;
+	font-family:Futura;
+	background: #E9CFCF;
+}
+
+h2{
+	font-family:Futura;
+	background: #E9CFCF;
+}
+
+
+h3{
+	font-family:Futura;
+	background: #E9CFCF;
+}
+
+.body-text{
+	font-size:19px;
+	font-family:Roboto;
+}
+
+body{
+	background-color: #F9f2f2;
+}
+
+.main-img img{
+	width: 600px;
+	max-width: 100%;
+	height: auto;
+}
+
+.apple{
+	display: flex;
+	flex-direction: row;
+	max-width: 500px;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 15px;
+}
+
+.banana{
+	display: flex;
+	flex-direction: row;
+	max-width: 500px;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 15px;
+}
+
+.avocado{
+	display: flex;
+	flex-direction: row;
+	max-width: 500px;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 15px;
+}
+
+.blueberry{
+	display: flex;
+	flex-direction: row;
+	max-width: 500px;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding: 15px;
+}
+
+.icon{
+	font-size: 30px;
+	font-family:Futura;
+	display: flex;
+	flex-direction: column;
+	max-width: 300px;
+	justify-content: center;
+	padding: 7px;
+	background: #E9CFCF;
+}
+
+.icon img{
+	max-height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
